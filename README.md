@@ -1,1 +1,8 @@
-<a href="https://app.daily.dev/dipeshsah"><img src="https://api.daily.dev/devcards/542f747603b942aba5f438b1ac520205.png?r=hqq" width="400" alt="Dipesh Sah's Dev Card"/></a>
+# Dipesh Kumar Sah
+
+**Web Developer | Shopware 6 | PHP | JavaScript | HTML & CSS | Learning Flutter | Building Scalable & Dynamic Web Solutions**
+
+I am a passionate Web Developer with expertise in HTML, CSS, SCSS, JavaScript, PHP, and Shopware 6. With a strong foundation in frontend and backend development, I specialize in creating dynamic and scalable web solutions.
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/dipesh-shah322/)
